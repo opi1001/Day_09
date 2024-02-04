@@ -1,4 +1,12 @@
-# practice_10
+## "🚀 Just I am doing  Flutter's Alert Dialog Box! 📱
+
+#day09
+"🚀 Just I am doing Flutter's SliverAppBar!📱
+Mastering the art of dynamic and visually stunning app bars.💡 
+Excited to implement SliverAppBar for flexible scrolling and enhanced user experiences. 
+🌐From smooth transitions to creative design possibilities, the Flutter journey continues to unfold. 
+Ready for the next challenge in mobile app development. 
+Let's connect and explore the sleek world of SliverAppBar in Flutter together! ✨
 
 A new Flutter project.
 
